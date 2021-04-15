@@ -70,3 +70,4 @@
 |ABD|https://github.com/malrev/ABD|Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories |
 |Tigress|https://github.com/JonathanSalwan/Tigress_protection|Tigress Protections|
 |D810(IDA_Plugin) |https://github.com/joydo/d810|an IDA Pro plugin which can be used to deobfuscate code at decompilation time by modifying IDA Pro microcode|
+|bytecode-viewer|https://github.com/Konloch/bytecode-viewer|A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More) |
