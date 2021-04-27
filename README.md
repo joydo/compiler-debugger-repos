@@ -66,7 +66,7 @@
 |radare2|https://github.com/radareorg/radare2|UNIX-like reverse engineering framework and command-line toolset|
 |BARF |https://github.com/programa-stic/barf-project|A multiplatform open source Binary Analysis and Reverse engineering Framework |
 |pharos|https://github.com/cmu-sei/pharos| Automated static analysis tools for binary programs |
-|QEMU |https://github.com/qemu/qemu|machine & userspace emulator and virtualizer|
+|QEMU |* https://github.com/qemu/qemu </br> * https://airbus-seclab.github.io/qemu_blog/|machine & userspace emulator and virtualizer|
 |ABD|https://github.com/malrev/ABD|Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories |
 |Tigress|https://github.com/JonathanSalwan/Tigress_protection|Tigress Protections|
 |D810(IDA_Plugin) |https://github.com/joydo/d810|an IDA Pro plugin which can be used to deobfuscate code at decompilation time by modifying IDA Pro microcode|
